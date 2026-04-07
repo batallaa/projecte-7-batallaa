@@ -1,16 +1,16 @@
-# projecte FoodLogistic
+# 🍉 Projecte FoodLogistic
 
-## Modernització de la logística alimentària a través de la tecnologia
+## 🌐 Modernització de la logística alimentària a través de la tecnologia
 
 ![Logo del projecte FoodLogistic](pics/FoodLogisticLogo.png)
 
-## Autor
+## 👤 Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Biel Batalla Rabassa
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: Pol Castaño
 
-## Descripció del projecte
+## 📄 Descripció del projecte
 
 "FoodLogístic S.A." és una empresa capdavantera en la distribució i logística alimentària a nivell nacional. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
 
@@ -18,7 +18,7 @@ La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i 
 
 Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 
-### Dades legals i corporatives de "FoodLogistic S.A."
+### 📅 Dades legals i corporatives de "FoodLogistic S.A."
 
 - **Raó social:** FoodLogistic S.A.
 - **NIF:** A08123456
@@ -29,40 +29,52 @@ Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
 - **Nombre de treballadors:** 35
 - **Facturació darrer any:** 25 milions d’euros.
 
-## Instruccions (per eliminar abans de lliurar el projecte)
 
-Un cop teniu la vostra còpia d'aquest repositori, heu de seguir els passos següents:
+# 📘 DESCRIPCIÓ DEL PROJECTE  
 
-1. **Editar aquest fitxer README.md**
-    - Incloure el vostre nom i els noms dels membres del grup.
+## 🧭 1. Introducció i Context
 
-1. **Organització del repositori:**
-   - Cada activitat ha d'estar dins d'una carpeta titulada `Tasca01`, `Tasca02`, etc.
-   - Dins de cada carpeta de tasca, heu d'incloure un arxiu `README.md` amb la descripció detallada de l'activitat realitzada.
+Després de mesos de planificació i creixement, la vostra empresa ja està totalment operativa, però ara arriba **el moment de la veritat**: guanyar-vos la confiança dels clients i expandir el vostre propi negoci 🚀.
 
-```text
+En aquest projecte treballareu **en paral·lel en dos grans fronts**:
+- 🤝 Cobrir les necessitats d’un **client real en plena expansió**
+- 🌐 Consolidar la **presència a la xarxa** de la vostra pròpia empresa
 
-projecte7/
-├── README.md (aquest arxiu)
-├── Tasca01/
-│   └── README.md
-├── Tasca02/
-│   └── README.md
-├── Tasca03/
-│   └── README.md
-└── ...
-```
+---
 
-1. **Procediment de treball:**
-   - A mesura que completeu cada tasca, actualitzeu el vostre repositori local amb els canvis.
-   - Cada dia, abans de finalitzar la jornada, pugeu els canvis al  repositori remot a GitHub.
+## 🏢 2. L’Encàrrec del Client: *FoodLogístic S.A.*
 
-1. **Esborrar secció instruccions:**
-    - Un cop hàgiu completat la creació de les carpetes i actualitzat el vostre README.md, ja podeu eliminar aquesta secció d'instruccions per a una millor presentació del vostre projecte.
+**FoodLogístic S.A.** és una empresa capdavantera en la distribució i logística alimentària a nivell nacional, amb seu a **Mataró** 📍.
 
-1. **Logotips, imatges i empresa pròpia**
-    - El logotip de l'empresa client "FoodLogistic S.A." es troba a la carpeta `pics` i el que hauríeu d'utilitzar en el vostre projecte: web, proposta, etc.
-    - Pel que respecte la vostra empresa, podeu reaprofitar els logotips i noms que heu creat en projectes anteriors o crear-ne de nous. Recordeu que el nom de la vostra empresa i el logotip són elements importants per a la vostra identitat corporativa, així que trieu-los amb cura!
+Arran de l’obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s’han multiplicat 📈.
+
+La seva infraestructura actual s’ha quedat petita i pateixen per la **seguretat** i la **continuïtat del negoci**.  
+Per això, han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se 💻.
+
+Us demanen actuar en **quatre àrees clau**:
+
+---
+
+## 🛠️ Àrea 1: Infraestructura i Alta Disponibilitat
+
+L’empresa ja disposa d’una estructura de **Directori Actiu**, però necessita assegurar que els serveis crítics **no s’aturin mai** ⏱️.
+
+Haureu de:
+
+- 📂 Configurar un **servidor de fitxers en alta disponibilitat** per garantir l’accés constant als albarans.
+- 🖨️ Configurar un **servidor d’impressió en alta disponibilitat** perquè les etiquetes de tramesa es puguin imprimir sense interrupcions als magatzems.
+
+---
+
+## ☁️ Àrea 2: Comunicació i Col·laboració al Núvol
+
+El servidor de correu intern actual **falla sovint** ❌.  
+FoodLogístic S.A. vol fer **el salt definitiu al núvol**.
+
+La vostra tasca serà:
+
+- ✉️ Avaluar i seleccionar el millor **servei de correu al núvol** (*Microsoft 365, Google Workspace o similars*).
+
 
 ## Guies Git i GitHub
 
