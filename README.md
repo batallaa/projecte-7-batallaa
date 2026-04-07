@@ -74,9 +74,28 @@ FoodLogístic S.A. vol fer **el salt definitiu al núvol**.
 La vostra tasca serà:
 
 - ✉️ Avaluar i seleccionar el millor **servei de correu al núvol** (*Microsoft 365, Google Workspace o similars*).
+  
+## 📝 Tasques 
 
+- **T01**   -->   [T01: Coneixent la competència i el sector](/Tasques/T01) 💾
+- **T02**   -->   [T02: Creant la proposta de pàgina corporativa](/Tasques/T02) 💻
+- **T03**   -->   [T03: Servidor de fitxers](/Tasques/T03) 🔄
+- **T04**   -->   [T04: Servidor d’impressió](/Tasques/T04) 🌐 
+- **T05**   -->   [T05: Vídeo formatiu LOPD empleats](/Tasques/T05) 🔒   
+- **T06**   -->   [T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.](/Tasques/T06) 🖥️
+- **T07**   -->   [T07: Migrant al cloud](/Tasques/T07) 🤝
+- **T08**   -->   [T08: Tria de la web definitiva](/Tasques/T08) ✅
+- **T09**   -->   [T09: Estimació temporal de projecte](/Tasques/T09) 📂
+- **T10**   -->   [T10: Pressupost del projecte](/Tasques/T10) 🖨️
+- **T11**   -->   [T11: Preparem una intranet per a més endavant - Aplicacions web](/Tasques/T11) 🖥️
 
-## Guies Git i GitHub
+## 📝 Projectes 
+
+- **P01**   -->   [P01: Memòria tècnica de la proposta](/Productes/P01) 🧑‍💻
+- **P02**   -->   [P02: Web corporativa](/Productes/P02) 📊
+- **P03**   -->   [P03: Repositori personal](/Productes/P03) 📋
+
+## 📒 Guies Git i GitHub
 
 - [Introducció a Git i GitHub](https://github.com/SMX2n/IntroGitHub)
 - [Control de versions: Git](https://github.com/SMX2n/ControlVersions)
