@@ -47,6 +47,42 @@
 
 <img width="726" height="337" alt="image" src="https://github.com/user-attachments/assets/da32072e-efc7-4643-a068-487cbe101b33" />
 
+@startuml
+skinparam linetype ortho
+
+' Direcció
+package "Direcció" {
+  [JOSE (Co-CEO)]
+  [SAMUEL (Co-CEO)]
+}
+
+' Relació entre direcció
+[JOSE (Co-CEO)] --> [SAMUEL (Co-CEO)]
+
+' Equip tècnic
+package "Operacions (Equip Tècnic)" {
+  [Tècnic 1]
+  [Tècnic 2]
+  [Tècnic 3]
+  [Tècnic 4]
+}
+
+' Administració / Recepció
+package "Administració" {
+  [Recepcionista / Administrativa]
+}
+
+' Assignació jeràrquica
+[JOSE (Co-CEO)] --> [Tècnic 1]
+[JOSE (Co-CEO)] --> [Tècnic 2]
+
+[SAMUEL (Co-CEO)] --> [Tècnic 3]
+[SAMUEL (Co-CEO)] --> [Tècnic 4]
+
+[JOSE (Co-CEO)] --> [Recepcionista / Administrativa]
+
+@enduml
+
 ---
 
 ## 3. Departaments i funcions (mestic)
@@ -136,3 +172,4 @@ Per garantir un servei de qualitat, es recomana:
 
 - **Opcional: suport extern especialitzat**  
   Per tasques avançades de ciberseguretat o projectes puntuals
+
