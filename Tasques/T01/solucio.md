@@ -53,14 +53,14 @@
 
 Mestic, com a microempresa, té una estructura simple amb dos departaments:
 
-### 🛠️ Departament Tècnic
+### Departament Tècnic
 - Manteniment informàtic  
 - Resolució d’incidències  
 - Instal·lació de xarxes  
 - Còpies de seguretat i cloud  
 - Assessorament tecnològic  
 
-### 🧾 Departament Administratiu
+### Departament Administratiu
 - Facturació i pressupostos  
 - Atenció al client  
 - Gestió de documentació i despeses  
