@@ -27,7 +27,7 @@ Actualment, el mercat ofereix diverses plataformes de correu corporatiu al núvo
 - **[Lark](https://www.zoho.com/workplace/)**  
   Plataforma integrada amb xat, videotrucades i documents, enfocada a la comunicació interna.
 
-![Captura 1](/Tasques/Tasca07/img/i1.png)
+![Captura 1](/Tasques/T07/img/i1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Actualment, el mercat ofereix diverses plataformes de correu corporatiu al núvo
 | Zoho Workplace Professional | ~5,5 € | ~2.310 € | 100 GB correu + núvol ampliable | MFA, SSO, xifrat | Writer, Cliq, WorkDrive |
 | Lark Pro | ~11 € | ~4.620 € | 1 TB compartit | MFA, control d’accés | Docs, xat, videotrucades |
 
-![Captura 2](/Tasques/Tasca07/img/i2.png)
+![Captura 2](/Tasques/T07/img/i2.png)
 
 ---
 
@@ -110,4 +110,4 @@ La migració al núvol amb **[Zoho Workplace](ttps://www.zoho.com/workplace/)e**
 
 És una solució equilibrada, escalable i econòmica, ideal per a una empresa de **35 treballadors**.
 
-![Captura 3](/Tasques/Tasca07/img/i3.png)
+![Captura 3](/Tasques/T07/img/i3.png)
