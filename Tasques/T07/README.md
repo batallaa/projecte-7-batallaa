@@ -118,3 +118,4 @@ Una proposta clara, professional i entenedora que permeti a **FoodLogistic S.A.*
 - Augmentar la seguretat
 - Optimitzar costos
 
+[Solucio T07](/Tasques/T07/solucio.md)
