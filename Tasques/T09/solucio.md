@@ -147,3 +147,4 @@ Errors en requisits | Web/LOPD | Mitjà | Revisió contínua amb validació
 ---
 
 ![Gantt](/Tasques/T09/img/gantt.png)
+[README](/Tasques/T09/README.md)
