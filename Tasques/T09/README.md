@@ -40,10 +40,18 @@ A partir de les tasques **T01–T08**, cal identificar:
 - 🔀 Tasques paral·leles  
 - ⛔ Tasques bloquejants  
 
-Preguntes clau:
-- Quines tasques no poden començar sense acabar-ne una altra?
-- On poden aparèixer colls d’ampolla?
-- Quines tasques són més crítiques?
+##### Preguntes clau:
+**- Quines tasques no poden començar sense acabar-ne una altra?**
+
+La T02, ja que sense aquesta que és la web i el push no es poden fer moltes de les altres.
+
+**- On poden aparèixer colls d’ampolla?**
+
+Amb la T06 o la T08 que és l'elecció de la web.
+
+**- Quines tasques són més crítiques?**
+
+La T03, ja que és el muntatge de tot el Windows Server amb el servidor de fitxers.
 
 #### 1.2 Identificació del camí crític
 Cal determinar:
@@ -183,3 +191,7 @@ La mala organització entre els dos, tot i que no és el cas.
 **- Si tinguéssiu una setmana més, què canviaríeu?**
 
 Visualment, faríem més atractiva la web final, i les tasques les faríem millor i més documentades.
+
+---
+
+[Solució](/Tasques/T09/solucio.md)
