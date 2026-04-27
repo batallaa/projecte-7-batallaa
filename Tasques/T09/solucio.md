@@ -143,3 +143,7 @@ Problemes tècnics | Servidors/web | Alt | Realitzar proves prèvies i backups
 Mala coordinació | Tot el projecte | Mitjà | Fer reunions setmanals de seguiment
 Falta de temps final | T07, T08 | Alt | Reduir tasques no crítiques
 Errors en requisits | Web/LOPD | Mitjà | Revisió contínua amb validació
+
+---
+
+![Gantt](/Tasques/T09/img/gantt.png)
