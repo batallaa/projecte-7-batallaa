@@ -195,4 +195,5 @@ Visualment, faríem més atractiva la web final, i les tasques les faríem millo
 ---
 
 [Solució](/Tasques/T09/solucio.md)
+
 ![Gantt](/Tasques/T09/img/gantt.png)
