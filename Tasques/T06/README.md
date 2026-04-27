@@ -81,7 +81,7 @@ Totes les modificacions i noves pàgines han de:
 ## 📦 Què cal lliurar
 - Al repositori del projecte:
   - Fitxer `README.md` amb la descripció d’aquesta activitat
-  - ✅ **Enllaç a la URL de la web desplegada a GitHub Pages**
+  - ✅ **Enllaç a la [URL](batallaa.github.io/Foodlogistic/) de la web desplegada a GitHub Pages**
 
 ---
 
