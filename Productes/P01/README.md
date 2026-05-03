@@ -58,4 +58,3 @@ Aquesta memòria constitueix una **evidència fonamental del projecte**, ja que 
 - 🗣️ Comunicar solucions tècniques  
 
 tot això de manera **estructurada, clara i professional**.
-``
