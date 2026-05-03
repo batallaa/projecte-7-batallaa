@@ -1,30 +1,30 @@
 # MEMÒRIA ECONÒMICA – FOODLOGÍSTIC S.A.
 
-## 1. Introducció
-Aquest document presenta el pressupost per a la creació d’una pàgina web corporativa i la configuració dels serveis digitals associats per a FoodLogístic S.A.
+## 1. Introducció  
+Aquest document presenta el pressupost per al desenvolupament d’una pàgina web corporativa i la implantació de serveis digitals al núvol per a l’empresa FoodLogístic S.A., integrant la solució de correu i col·laboració definida a l’anàlisi de migració al núvol (T07).
 
 ---
 
-## 2. Cost d’Implantació (Pagament únic)
+## 2. Cost d’Implantació (pagament únic)
 
-### 2.1 Infraestructura i programari (opcions escollides)
+### 2.1 Infraestructura i programari
 
 | Element | Opció escollida | Cost |
 |--------|----------------|------|
-| Hosting inicial | VPS bàsic (Hostinger / similar) | 100 € |
+| Hosting inicial | VPS bàsic (Hostinger o similar) | 100 € |
 | CMS | WordPress (codi obert) | 0 € |
 | Plugins premium | Elementor Pro + Wordfence + UpdraftPlus | 120 € |
 | **Subtotal** | | **220 €** |
 
 ---
 
-### 2.2 Llicències
+### 2.2 Llicències web
 
 | Element | Opció escollida | Cost |
 |--------|----------------|------|
 | Plantilla web | ThemeForest (tema professional) | 60 € |
-| Eines SEO | RankMath Pro (opcional) | 50 € |
-| Altres plugins | Formularis avançats | 50 € |
+| SEO | RankMath Pro | 50 € |
+| Formularis avançats | Plugin de formularis | 50 € |
 | **Subtotal** | | **160 €** |
 
 ---
@@ -36,10 +36,10 @@ Tarifa aplicada: **30 €/hora**
 | Tasca | Hores | Cost |
 |------|------|------|
 | Anàlisi i planificació | 5 h | 150 € |
-| Disseny web (UI/UX) | 10 h | 300 € |
+| Disseny UI/UX | 10 h | 300 € |
 | Desenvolupament WordPress | 20 h | 600 € |
-| Configuració hosting + domini | 5 h | 150 € |
-| Integració correu i formularis | 5 h | 150 € |
+| Configuració hosting i domini | 5 h | 150 € |
+| Integració correu corporatiu (núvol) | 5 h | 150 € |
 | SEO inicial | 5 h | 150 € |
 | Testing | 3 h | 90 € |
 | Formació client | 3 h | 90 € |
@@ -60,15 +60,18 @@ Tarifa aplicada: **30 €/hora**
 
 ## 3. Costos recurrents (mensuals)
 
-### 3.1 Correu i col·laboració (SaaS)
+### 3.1 Suite de correu i col·laboració (núvol)
 
-Opció escollida: **Microsoft 365 Business Basic**
+Segons la tasca T07 s’ha seleccionat:
 
-- Preu: ~5,60 €/usuari/mes 
+**Zoho Workplace**
 
-| Usuaris | Cost unitari | Total |
-|--------|-------------|-------|
-| 10 | 5,60 € | 56 €/mes |
+| Concepte | Càlcul | Cost |
+|----------|--------|------|
+| Usuaris | 35 | |
+| Cost per usuari | 5,5 €/mes | |
+| **Total mensual** | 35 × 5,5 € | **192,5 €** |
+| **Total anual** | | **2.310 €** |
 
 ---
 
@@ -76,13 +79,13 @@ Opció escollida: **Microsoft 365 Business Basic**
 
 | Servei | Opció | Cost |
 |--------|------|------|
-| Hosting web | VPS bàsic | 10 €/mes |
-| Domini (.com/.es) | Proveïdor tipus Namecheap | 1 €/mes |
+| Hosting VPS | Servidor web | 10 €/mes |
+| Domini | Proveïdor extern | 1 €/mes |
 | **Total** | | **11 €/mes** |
 
 ---
 
-### 3.3 Manteniment
+### 3.3 Manteniment web
 
 | Servei | Cost |
 |--------|------|
@@ -98,24 +101,31 @@ Opció escollida: **Microsoft 365 Business Basic**
 
 | Concepte | Cost |
 |----------|------|
-| Microsoft 365 | 56 € |
+| Zoho Workplace | 192,5 € |
 | Hosting + domini | 11 € |
 | Manteniment | 120 € |
-| **TOTAL** | **187 €/mes** |
+| **TOTAL** | **323,5 €/mes** |
 
 ---
 
-## 4. Justificació
+## 4. Justificació tècnica
 
-- Microsoft 365 Business Basic s’ha escollit per ser una solució estàndard empresarial amb cost aproximat de 5-7 €/usuari/mes   
-- Google Workspace té preus similars (des de ~6,90 €/mes), però s’ha optat per Microsoft per compatibilitat amb entorns empresarials 
-- Hosting VPS i WordPress permeten reduir costos inicials i millorar l’escalabilitat  
+La solució global combina una infraestructura web basada en WordPress amb serveis de productivitat al núvol.
+
+S’ha seleccionat **Zoho Workplace** perquè:
+- Redueix costos respecte altres solucions del mercat  
+- Integra correu, documents i comunicació en una sola plataforma  
+- Inclou seguretat avançada (MFA, SSO i xifrat)  
+- És escalable i adequada per a empreses en creixement  
+
+WordPress permet una web flexible, escalable i de baix cost inicial.
 
 ---
 
 ## 5. Conclusions
 
-- Cost inicial: **2.060 €**
-- Cost mensual: **187 €/mes**
+- **Cost inicial total:** 2.060 €  
+- **Cost mensual total:** 323,5 €/mes  
+- **Cost anual aproximat:** ~5.902 €  
 
-Solució professional, escalable i amb costos ajustats al mercat actual.
+La proposta és econòmica, escalable i basada en tecnologia al núvol moderna.
