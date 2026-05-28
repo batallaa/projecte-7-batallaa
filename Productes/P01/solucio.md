@@ -18,10 +18,10 @@ L’objectiu principal d’aquest projecte és modernitzar completament la infra
 
 En concret, es busca assolir els següents beneficis:
 
-Millora significativa de la comunicació interna entre departaments i externa amb clients i proveïdors
-Increment del nivell de seguretat en la gestió i emmagatzematge de dades
-Possibilitat d’escalabilitat segons el creixement del negoci
-Consolidació d’una presència digital corporativa sòlida i professional
+- Millora significativa de la comunicació interna entre departaments i externa amb clients i proveïdors
+- Increment del nivell de seguretat en la gestió i emmagatzematge de dades
+- Possibilitat d’escalabilitat segons el creixement del negoci
+- Consolidació d’una presència digital corporativa sòlida i professional
 
 ---
 
