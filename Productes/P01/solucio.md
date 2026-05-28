@@ -9,10 +9,10 @@ Aquest document presenta de manera detallada la proposta tècnica per al desenvo
 
 La proposta inclou els següents components principals:
 
-Desenvolupament d’una pàgina web corporativa moderna i funcional
-Implementació d’una infraestructura al núvol robusta i escalable
-Configuració d’un sistema de correu empresarial professional
-Definició i desplegament de serveis de manteniment, seguretat i suport tècnic
+- Desenvolupament d’una pàgina web corporativa moderna i funcional
+- Implementació d’una infraestructura al núvol robusta i escalable
+- Configuració d’un sistema de correu empresarial professional
+- Definició i desplegament de serveis de manteniment, seguretat i suport tècnic
 
 L’objectiu principal d’aquest projecte és modernitzar completament la infraestructura digital de l’empresa, proporcionant eines actuals que permetin optimitzar processos interns i millorar la imatge externa.
 
