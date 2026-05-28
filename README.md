@@ -74,7 +74,12 @@ FoodLogístic S.A. vol fer **el salt definitiu al núvol**.
 La vostra tasca serà:
 
 - ✉️ Avaluar i seleccionar el millor **servei de correu al núvol** (*Microsoft 365, Google Workspace o similars*).
-  
+
+## Problema i Solució
+
+- **Problema:** El client Nexus necessitava una infraestructura de servidor per muntar una plataforma e-learning segura, eficient i amb costos controlats, però no sabia quines tecnologies triar.
+- **Solució:** Vam desplegar i comparar Apache vs Nginx (recomanant Nginx), vam implementar certificats SSL amb PKI pròpia i vam comparar Moodle vs Canvas per recomanar la millor opció per al client.
+
 ## 📝 Tasques 
 
 - **T01**   -->   [T01: Coneixent la competència i el sector](/Tasques/T01) 💾
