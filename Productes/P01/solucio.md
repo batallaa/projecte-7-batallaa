@@ -46,12 +46,12 @@ Aquestes limitacions dificulten la competitivitat de l’empresa en un entorn ca
 
 A partir dels problemes detectats, es defineixen les següents necessitats clau que han de ser cobertes per la solució proposada:
 
-Implementació d’un sistema de correu corporatiu segur, fiable i accessible des de qualsevol dispositiu
-Desenvolupament d’una web corporativa moderna, responsive i preparada per al creixement futur
-Contractació d’un servei de hosting fiable, amb alta disponibilitat i bon rendiment
-Integració d’un sistema automatitzat de còpies de seguretat per evitar pèrdues de dades
-Compliment estricte de la normativa vigent en matèria de protecció de dades (LOPD / RGPD)
-Facilitat de gestió i manteniment dels sistemes per part de l’equip tècnic
+- Implementació d’un sistema de correu corporatiu segur, fiable i accessible des de qualsevol dispositiu
+- Desenvolupament d’una web corporativa moderna, responsive i preparada per al creixement futur
+- Contractació d’un servei de hosting fiable, amb alta disponibilitat i bon rendiment
+- Integració d’un sistema automatitzat de còpies de seguretat per evitar pèrdues de dades
+- Compliment estricte de la normativa vigent en matèria de protecció de dades (LOPD / RGPD)
+- Facilitat de gestió i manteniment dels sistemes per part de l’equip tècnic
 
 ---
 
@@ -63,17 +63,17 @@ Es proposa la implementació d’una arquitectura basada en tecnologies al núvo
 
 Els components principals de la infraestructura són:
 
-Servidor VPS al núvol per allotjar la web i serveis associats
-Utilització de WordPress com a sistema de gestió de continguts (CMS)
-Sistema de còpies de seguretat automatitzades amb freqüència configurable
-Possibilitat d’escalabilitat vertical (ampliació de recursos del servidor segons necessitats)
+- Servidor VPS al núvol per allotjar la web i serveis associats
+- Utilització de WordPress com a sistema de gestió de continguts (CMS)
+- Sistema de còpies de seguretat automatitzades amb freqüència configurable
+- Possibilitat d’escalabilitat vertical (ampliació de recursos del servidor segons necessitats)
 
 Aquesta arquitectura ofereix diversos avantatges:
 
-Alta disponibilitat dels serveis, minimitzant temps d’inactivitat
-Reducció de costos en comparació amb infraestructures físiques
-Escalabilitat senzilla i ràpida segons el creixement de l’empresa
-Accés remot segur des de qualsevol ubicació
+- Alta disponibilitat dels serveis, minimitzant temps d’inactivitat
+- Reducció de costos en comparació amb infraestructures físiques
+- Escalabilitat senzilla i ràpida segons el creixement de l’empresa
+- Accés remot segur des de qualsevol ubicació
 
 ---
 
@@ -89,11 +89,11 @@ Per a la gestió del correu electrònic i les eines de col·laboració, s’ha s
 
 Els serveis inclosos dins d’aquesta plataforma són:
 
-Correu electrònic corporatiu amb domini propi
-Calendari compartit per a la gestió d’esdeveniments i reunions
-Emmagatzematge al núvol per a documents i arxius
-Eines ofimàtiques online (processador de textos, fulls de càlcul, presentacions)
-Sistema de col·laboració en temps real entre usuaris
+- Correu electrònic corporatiu amb domini propi
+- Calendari compartit per a la gestió d’esdeveniments i reunions
+- Emmagatzematge al núvol per a documents i arxius
+- Eines ofimàtiques online (processador de textos, fulls de càlcul, presentacions)
+- Sistema de col·laboració en temps real entre usuaris
 
 Aquesta solució permet millorar la productivitat i facilita el treball en equip, especialment en entorns distribuïts.
 
@@ -124,22 +124,22 @@ La nova web corporativa es desenvoluparà utilitzant tecnologies actuals i orien
 
 Tecnologies i recursos utilitzats:
 
-WordPress com a CMS principal
-Tema professional adquirit a ThemeForest amb disseny responsive
-Plugins especialitzats en seguretat, SEO i rendiment
+- WordPress com a CMS principal
+- Tema professional adquirit a ThemeForest amb disseny responsive
+- Plugins especialitzats en seguretat, SEO i rendiment
 
 Objectius principals de la web:
 
-Millorar la imatge corporativa de l’empresa
-Facilitar la captació de nous clients
-Proporcionar informació clara i estructurada sobre serveis i productes
-Garantir una navegació intuïtiva i accessible des de dispositius mòbils
+- Millorar la imatge corporativa de l’empresa
+- Facilitar la captació de nous clients
+- Proporcionar informació clara i estructurada sobre serveis i productes
+- Garantir una navegació intuïtiva i accessible des de dispositius mòbils
 
 També es tindran en compte aspectes com:
 
-Optimització SEO per millorar el posicionament en cercadors
-Temps de càrrega reduïts
-Integració amb xarxes socials
+- Optimització SEO per millorar el posicionament en cercadors
+- Temps de càrrega reduïts
+- Integració amb xarxes socials
 
 ---
 
@@ -178,17 +178,17 @@ El pressupost estimat del projecte es divideix en dos blocs principals:
 
 El cost d’implantació inclou:
 
-Configuració de la infraestructura
-Desenvolupament de la web
-Configuració de serveis al núvol
-Implementació de mesures de seguretat
+- Configuració de la infraestructura
+- Desenvolupament de la web
+- Configuració de serveis al núvol
+- Implementació de mesures de seguretat
 
 El cost mensual cobreix:
 
-Hosting VPS
-Subscripcions de serveis (Zoho, plugins premium)
-Manteniment tècnic i suport
-Monitorització i còpies de seguretat
+- Hosting VPS
+- Subscripcions de serveis (Zoho, plugins premium)
+- Manteniment tècnic i suport
+- Monitorització i còpies de seguretat
 
 ---
 
@@ -221,16 +221,16 @@ La proposta desenvolupada per a FoodLogístic S.A. representa una solució compl
 
 Principals beneficis:
 
-Infraestructura moderna, escalable i basada en el núvol
-Millora significativa de la seguretat de la informació
-Optimització de la comunicació interna i externa
-Reducció de costos operatius a llarg termini
-Major capacitat de creixement i adaptació tecnològica
+- Infraestructura moderna, escalable i basada en el núvol
+- Millora significativa de la seguretat de la informació
+- Optimització de la comunicació interna i externa
+- Reducció de costos operatius a llarg termini
+- Major capacitat de creixement i adaptació tecnològica
 
 Resultats esperats:
 
-Web corporativa professional i orientada a clients
-Sistema de correu al núvol eficient i segur
-Infraestructura tecnològica robusta i preparada per al futur
+- Web corporativa professional i orientada a clients
+- Sistema de correu al núvol eficient i segur
+- Infraestructura tecnològica robusta i preparada per al futur
 
 En conclusió, aquesta proposta permet a FoodLogístic S.A. avançar cap a una transformació digital sòlida, millorant tant la seva operativa interna com la seva presència en el mercat.
