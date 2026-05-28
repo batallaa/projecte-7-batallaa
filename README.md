@@ -77,8 +77,8 @@ La vostra tasca serà:
 
 ## Problema i Solució
 
-- **Problema:** El client Nexus necessitava una infraestructura de servidor per muntar una plataforma e-learning segura, eficient i amb costos controlats, però no sabia quines tecnologies triar.
-- **Solució:** Vam desplegar i comparar Apache vs Nginx (recomanant Nginx), vam implementar certificats SSL amb PKI pròpia i vam comparar Moodle vs Canvas per recomanar la millor opció per al client.
+- **Problema:** Els servidors crítics de l'empresa queien i paraven la producció, el correu intern fallava contínuament, no tenien web corporativa i els empleats no complien la LOPD.
+- **Solució:** Vam configurar servidors de fitxers i impressió en alta disponibilitat amb failover automàtic, vam migrar el correu a Microsoft 365, vam crear la web corporativa compliant i vam formar els empleats amb un vídeo sobre LOPD.
 
 ## 📝 Tasques 
 
